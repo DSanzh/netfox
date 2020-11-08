@@ -1,0 +1,4 @@
+module netfox {
+    header "/Users/sanzh/Desktop/Projects/ToolKit/netfox/.build/x86_64-apple-macosx/debug/netfox.build/netfox-Swift.h"
+    requires objc
+}
