@@ -1,3 +1,3 @@
-struct netfox {
+struct NetFox {
     var text = "Hello, World!"
 }

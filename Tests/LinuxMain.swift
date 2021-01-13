@@ -1,7 +1,7 @@
 import XCTest
 
-import netfoxTests
+import NetFoxTests
 
 var tests = [XCTestCaseEntry]()
-tests += netfoxTests.allTests()
+tests += NetFoxTests.allTests()
 XCTMain(tests)
