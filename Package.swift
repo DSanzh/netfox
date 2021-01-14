@@ -21,6 +21,6 @@ let package = Package(
         .target(
             name: "netfox",
             path: "Sources",
-            exclude: ["Core/NFXLoader.h", "Core/NFXLoader.m"])
+            exclude: ["Core/NFXLoader.m"])
     ]
 )
